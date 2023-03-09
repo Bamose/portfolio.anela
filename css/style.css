@@ -321,7 +321,7 @@ h3.my-profession{
     content: '';
     position: absolute;
     margin:auto;
-    background-image:url("/img/port.jpg");
+    background-image:url("port.jpg");
    
    
     
